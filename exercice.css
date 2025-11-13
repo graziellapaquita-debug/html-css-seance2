@@ -1,0 +1,19 @@
+
+
+html
+{ 
+background-color: #373738;
+}
+
+
+.h1{color:#ff0000; font-family: Arial, Helvetica, sans-serif;font-size:  18px; padding:10px; }
+
+.h2{color:#ff8000;}
+
+.p{color: #00ffc3;}
+
+.Titre-1{color:#ff0000; font-family: Arial, Helvetica, sans-serif;font: size 18px; padding:10px; }
+.Chapitre-1{color:#ff8000; font-family: Arial, Helvetica, sans-serif;font: size 18px; padding:10px; }
+.texte-1{color:#ffff00; font-family: Arial, Helvetica, sans-serif;font: size 18px; padding:10px; }
+.Titre-2{color:#80ff00; font-family: Arial, Helvetica, sans-serif;font: size 18px; padding:10px; }
+.texte-2{color:#00ff00; font-family: Arial, Helvetica, sans-serif;font: size 18px; padding:10px; }
